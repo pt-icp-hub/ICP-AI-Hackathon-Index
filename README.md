@@ -28,7 +28,7 @@ There are two exciting tracks:
 Kickstart your AI project with one of these awesome templates:
 
 ### 1. OnChain AI with Motoko 🚀🧠
-Develop canisters using **Motoko** and leverage the LLM canister from the DFINITY Foundation for on-chain AI integration.
+Develop canisters using **Motoko** and leverage the LLM canister from the DFINITY Foundation for on-chain AI integration.  
 🔗 [OnChain Motoko Template](https://github.com/pt-icp-hub/ICP-AI-Hackathon-OnChain-Motoko)
 
 ### 2. OnChain AI with Azle (TypeScript) 💻⚙️
