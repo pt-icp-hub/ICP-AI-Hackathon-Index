@@ -21,8 +21,6 @@ There are two exciting tracks:
 - **AI Track:** Focus on AI Agents, DeAI, and DeFi AI solutions. 🤖💡
 - **General Track:** For innovative projects outside the AI scope. 🚀💻
 
-> **Note:** For now, this repository provides **templates for the AI Track** only.
-
 ---
 
 ## AI Track Templates Overview 📝🔍
@@ -45,61 +43,9 @@ Build an AI agent using **Eliza** that runs off-chain yet interacts seamlessly w
 
 ## General Track Templates Overview 🔍
 
-TODO
+Probably the best is to use the standard projects created by **"dfx new"**. It will allow you to choose from a few different options.
 
----
-
-## Hackathon Details ⏰📋
-
-### Timeline 📆
-- **Application Phase:** 24th February – 24th March 2025 🗓️
-- **Online Hacking Phase:** 24th March – 30th March 2025 💻
-- **Code Submission Deadline:** 30th March 2025, 23:59 (Lisbon Time) ⏳
-- **Winner Announcements:** 31st March 2025 🎊
-
-### Eligibility Criteria ✅
-- Teams must not have received a grant or hackathon prize from the DFINITY Foundation for the project they wish to submit.
-- Projects should be unique to ICP, with no similar existing solutions in the IC ecosystem. 🔍
-- Participants must be proficient in English. 🇬🇧
-- Each team must include at least one founder above the age of 18. 🎓
-
-### What to Submit 📤
-- **Pitch Video:** Up to 5 minutes 🎥
-- **Pitch Deck:** A compelling presentation 📊
-- **GitHub Repository:** Your project source code 🗃️
-
-### Pitch Requirements Matrix 📊
-
-| **Requirement**       | **Description**                                               | **Time Allocation** |
-|-----------------------|---------------------------------------------------------------|---------------------|
-| **Problem Statement** | Define the problem your solution addresses                   | 30 seconds          |
-| **Target Audience**   | Identify who benefits from your solution                     | 15 seconds          |
-| **Proposed Solution** | Explain your innovative idea or approach                     | 1 minute            |
-| **Feasibility**       | Discuss the practicality of implementing your solution       | 30 seconds          |
-| **Impact**            | Describe the potential positive outcomes of your solution    | 45 seconds          |
-| **Novelty**           | Highlight what makes your idea unique or innovative          | 30 seconds          |
-| **Visual Aid**        | Present a mockup, diagram, or prototype                      | 1 minute            |
-
-
-### Judging Criteria 🏅
-- **Creativity:** How original is the idea? 🎨
-- **Thoughtfulness:** How thoroughly was the project developed? 🧩
-- **Uniqueness:** Does the project offer a novel solution unique to ICP? ✨
-- **Code Sophistication:** How clean, efficient, and advanced is the code? 💻
-
----
-
-## Prizes & Rewards 🏆💎
-
-### AI Track
-- **1st Place:** $3,000 in stablecoins, a PR campaign, tech advisory, a go-to-market strategy for your AI agent project, and support for ICP grants up to $100,000. 🎉💰
-- **2nd Place:** $2,000 in stablecoins and support for ICP grants up to $100,000. 🥈💸
-
-### General Track
-- **1st Place:** $1,500 in stablecoins, a PR campaign, tech advisory, and support for ICP grants up to $100,000. 🥇💼
-- **2nd Place:** $1,000 in stablecoins and support for ICP grants up to $100,000. 🥈
-
-_Prizes and rewards will be announced on 31st March 2025, with winners awarded within 2 weeks of the announcement._ 🎊
+> **Note:** If you have a specific need / language or framework that is not satisfied by the standard "dfx new", please let Tiago know, and we can try to find / update a Template for you.
 
 ---
 
@@ -107,10 +53,9 @@ _Prizes and rewards will be announced on 31st March 2025, with winners awarded w
 
 1. **Select a Template:** Choose one of the AI templates above to jumpstart your project. 👉 [Template Link](#ai-track-templates-overview-)
 2. **Develop Your Project:** Build your solution using the provided template as your foundation. 🛠️💡
-3. **Submit Your Work:** Follow the submission guidelines [here](#what-to-submit-) to share your project, including your pitch video, pitch deck, and GitHub repository link. 📤
+3. **Submit Your Work:** Register on Taikai and create your project, then include your pitch video, pitch deck, and GitHub repository link before the deadline. 📤
 
-For support and updates, join our community channels:  
-🔗 [Community Channel](TODO)
+For support and updates, ask on our TG and OC community channels (check your emails).
 
 ---
 
