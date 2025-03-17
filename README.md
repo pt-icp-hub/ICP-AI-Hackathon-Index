@@ -28,7 +28,7 @@ There are two exciting tracks:
 Kickstart your AI project with one of these awesome templates:
 
 ### 1. OnChain AI with Motoko 🚀🧠
-Develop canisters using **Motoko** and leverage the LLM canister from the DFINITY Foundation for on-chain AI integration. This template also includes an example of **OpenChat integration**, demonstrating how to build chatbots similar to Telegram bots on the IC!  
+Develop canisters using **Motoko** and leverage the LLM canister from the DFINITY Foundation for on-chain AI integration.
 🔗 [OnChain Motoko Template](https://github.com/pt-icp-hub/ICP-AI-Hackathon-OnChain-Motoko)
 
 ### 2. OnChain AI with Azle (TypeScript) 💻⚙️
@@ -38,6 +38,9 @@ A full-stack canister example using **TypeScript**, featuring both frontend and 
 ### 3. OffChain AI with Eliza 🛠️🤖
 Build an AI agent using **Eliza** that runs off-chain yet interacts seamlessly with the IC.  
 🔗 [OffChain Eliza Template](https://github.com/pt-icp-hub/ICP-AI-Hackathon-OffChain-Eliza)
+
+### 4. OnChai AI with OpenChat Integration
+TODO
 
 ---
 
