@@ -41,7 +41,7 @@ Build an AI agent using **Eliza** that runs off-chain yet interacts seamlessly w
 
 ### 4. OnChai AI with OpenChat Integration
 Learn how you can integrate your agent directly in the leading messaging app running on the Internet Computer: **OpenChat**.  
-🔗 [Onchain OpenChat Template](https://github.com/pt-icp-hub/ICP-AI-Hackathon-OffChain-Eliza)
+🔗 [Onchain OpenChat Template](https://github.com/pt-icp-hub/ICP-AI-Hackathon-OnChain-OpenChat)
 
 ---
 
